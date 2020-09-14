@@ -20,5 +20,5 @@ School_District_Analysis
 ###### - Thomas High Schools spending group suffers a 7% drop in all the "% Passing" after cleaing
 ## How is scores by size affected?
 ######  - Thomas High Schools size group suffers a 5% drop in all the "% Passing" after cleaing
-# How is scores by type affect?
+## How is scores by type affect?
 ###### - Thomas High Schools type group suffers a 3% drop in all the "% Passing" after cleaing
